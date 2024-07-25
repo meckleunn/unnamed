@@ -1,0 +1,249 @@
+{
+  "Opening effect": "assets/prefabs/misc/halloween/lootbag/effects/gold_open.prefab",
+  "BackgroundImageUrl": "https://www.dropbox.com/scl/fi/n04axnx5q2wm921pofvi7/combine_images__3_-removebg-preview.png?rlkey=tmfjk662psemyzerhi514x84x&dl=1",
+  "ChestHelp": [
+    "Enabled - true/false , if false chest will not spawn in PrefabPaths",
+    "CustomStackSize - now you can change stack size of each chest",
+    "You can change skin and display name of each chest",
+    "MinChestAmount/MaxCHestAmount - how much items player will get from chest ",
+    "CooldownSeconds - how much seconds will player need to wait to open another chest",
+    "You can add more items to loottable",
+    "Economy: here you put item or plugin",
+    "PluginName: economics or serverrewards",
+    "If you use plugin ,shortname and skinId will be showed in Ui as item for economy,you will not get that item you will get balance of plugin",
+    "IsBlueprint - if true you will get bp of that item",
+    "Min/MaxAmount - quantity of that item (you can put min/max - to same number (1),so its min and max 1 quantity of that item)",
+    "Probability - from 0.0 (0%) to 1.0 (100%) chance to get that item",
+    "command : /givechest display name quantity; example /givechest green chest 5",
+    "Spawns - PrefabPath (chose where will chest spawn),SpawnChance (0-100 ,chance to spawn chest in that prefab)",
+    "Dont put same prefabpath for more type of chests,for each chest use different prefabpath",
+    "Opening effect : if empty its disabled,you can change opening effect to something else"
+  ],
+  "Chests": [
+    {
+      "Enabled": true,
+      "CustomStackSize": 1,
+      "ItemDisplayName": "Green Chest",
+      "ItemShortname": "xmas.present.large",
+      "LootBoxSkinID": 3038475567,
+      "MinChestAmount": 1,
+      "MaxChestAmount": 2,
+      "CooldownSeconds": 60,
+      "LootTable": "greenchest",
+      "LootTables": {
+        "greenchest": [
+          {
+            "Economy": "Item",
+            "PluginName": null,
+            "Shortname": "rock",
+            "MaxAmount": 5,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 2108583966,
+            "DisplayName": "Best Rock In Game",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": null,
+            "Shortname": "wood",
+            "MaxAmount": 300,
+            "MinAmount": 100,
+            "Probability": 1.0,
+            "SkinID": 0,
+            "DisplayName": "",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": null,
+            "Shortname": "stones",
+            "MaxAmount": 300,
+            "MinAmount": 100,
+            "Probability": 1.0,
+            "SkinID": 0,
+            "DisplayName": "",
+            "IsBlueprint": false
+          }
+        ]
+      },
+      "Spawns": [
+        {
+          "PrefabPath": "assets/bundled/prefabs/radtown/crate_normal_2.prefab",
+          "SpawnChance": 50.0
+        }
+      ]
+    },
+    {
+      "Enabled": true,
+      "CustomStackSize": 1,
+      "ItemDisplayName": "Blue Chest",
+      "ItemShortname": "xmas.present.large",
+      "LootBoxSkinID": 3038475897,
+      "MinChestAmount": 1,
+      "MaxChestAmount": 2,
+      "CooldownSeconds": 60,
+      "LootTable": "bluechest",
+      "LootTables": {
+        "bluechest": [
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "metal.refined",
+            "MaxAmount": 5,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 0,
+            "DisplayName": "",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "hq.metal.ore",
+            "MaxAmount": 30,
+            "MinAmount": 10,
+            "Probability": 1.0,
+            "SkinID": 0,
+            "DisplayName": "",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "lowgradefuel",
+            "MaxAmount": 30,
+            "MinAmount": 10,
+            "Probability": 1.0,
+            "SkinID": 0,
+            "DisplayName": "",
+            "IsBlueprint": false
+          }
+        ]
+      },
+      "Spawns": [
+        {
+          "PrefabPath": "assets/bundled/prefabs/radtown/crate_normal.prefab",
+          "SpawnChance": 50.0
+        }
+      ]
+    },
+    {
+      "Enabled": true,
+      "CustomStackSize": 1,
+      "ItemDisplayName": "Red Chest",
+      "ItemShortname": "xmas.present.large",
+      "LootBoxSkinID": 3038476006,
+      "MinChestAmount": 1,
+      "MaxChestAmount": 2,
+      "CooldownSeconds": 60,
+      "LootTable": "redchest",
+      "LootTables": {
+        "redchest": [
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "rifle.ak",
+            "MaxAmount": 5,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 0,
+            "DisplayName": "",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "rifle.ak",
+            "MaxAmount": 5,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 2585539626,
+            "DisplayName": "",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "lmg.m249",
+            "MaxAmount": 2,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 0,
+            "DisplayName": "Best Gun",
+            "IsBlueprint": false
+          }
+        ]
+      },
+      "Spawns": [
+        {
+          "PrefabPath": "assets/bundled/prefabs/radtown/crate_elite.prefab",
+          "SpawnChance": 50.0
+        }
+      ]
+    },
+    {
+      "Enabled": true,
+      "CustomStackSize": 1,
+      "ItemDisplayName": "Gold Chest",
+      "ItemShortname": "xmas.present.large",
+      "LootBoxSkinID": 3041592792,
+      "MinChestAmount": 1,
+      "MaxChestAmount": 2,
+      "CooldownSeconds": 60,
+      "LootTable": "goldchest",
+      "LootTables": {
+        "goldchest": [
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "xmas.present.large",
+            "MaxAmount": 10,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 3038475567,
+            "DisplayName": "Green Chest",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "xmas.present.large",
+            "MaxAmount": 5,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 3038475897,
+            "DisplayName": "Blue Chest",
+            "IsBlueprint": false
+          },
+          {
+            "Economy": "Item",
+            "PluginName": "ServerRewards",
+            "Shortname": "xmas.present.large",
+            "MaxAmount": 3,
+            "MinAmount": 1,
+            "Probability": 1.0,
+            "SkinID": 3038476006,
+            "DisplayName": "Red Chest",
+            "IsBlueprint": false
+          }
+        ]
+      },
+      "Spawns": [
+        {
+          "PrefabPath": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab",
+          "SpawnChance": 50.0
+        },
+        {
+          "PrefabPath": "assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab",
+          "SpawnChance": 50.0
+        }
+      ]
+    }
+  ],
+  "Version": {
+    "Major": 2,
+    "Minor": 1,
+    "Patch": 3
+  }
+}
