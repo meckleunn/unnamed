@@ -4,9 +4,9 @@
     "Spawn Time": 19.0,
     "Destroy Time": 7.3,
     "Spawn near players": true,
-    "Min pop for near player spawn": 10,
-    "Min distance from player": 20.0,
-    "Max distance from player": 40.0,
+    "Min pop for near player spawn": 4,
+    "Min distance from player": 40.0,
+    "Max distance from player": 60.0,
     "Zombie Settings": {
       "Display Name": "Scarecrow",
       "Scarecrow Population (total amount)": 100,
@@ -27,7 +27,7 @@
   "Behaviour Settings": {
     "Attack sleeping players": false,
     "Zombies attacked by outpost sentries": true,
-    "Throw Grenades": true,
+    "Throw Grenades": false,
     "Ignore Human NPCs": true,
     "Ignored entities (full entity shortname)": [
       "scientistjunkpile.prefab",
