@@ -15,7 +15,7 @@
         "Image": "fogmachine.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -45,7 +45,7 @@
         "Image": "rhib.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -95,7 +95,7 @@
         "Image": "ammo.rocket.mlrs.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 2500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -135,7 +135,7 @@
         "Image": "ammo.grenadelauncher.buckshot.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -145,7 +145,7 @@
         "Image": "ammo.grenadelauncher.he.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -185,7 +185,7 @@
         "Image": "arrow.bone.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 75,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -295,7 +295,7 @@
         "Image": "ammo.rocket.basic.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 1250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -305,7 +305,7 @@
         "Image": "ammo.rocket.fire.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 2000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -315,7 +315,7 @@
         "Image": "ammo.rocket.hv.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 2000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -325,7 +325,7 @@
         "Image": "ammo.rocket.smoke.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -345,7 +345,7 @@
         "Image": "ammo.shotgun.fire.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -355,7 +355,7 @@
         "Image": "ammo.shotgun.slug.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -365,7 +365,7 @@
         "Image": "speargun.spear.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -375,7 +375,7 @@
         "Image": "submarine.torpedo.straight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -385,7 +385,7 @@
         "Image": "door.double.hinged.metal.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -395,7 +395,7 @@
         "Image": "door.double.hinged.toptier.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -405,7 +405,7 @@
         "Image": "door.double.hinged.wood.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -415,7 +415,7 @@
         "Image": "door.hinged.metal.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -425,7 +425,7 @@
         "Image": "door.hinged.toptier.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -435,7 +435,7 @@
         "Image": "door.hinged.wood.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -445,7 +445,7 @@
         "Image": "floor.grill.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -455,7 +455,7 @@
         "Image": "floor.ladder.hatch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -465,7 +465,7 @@
         "Image": "floor.triangle.grill.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -475,7 +475,7 @@
         "Image": "floor.triangle.ladder.hatch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -485,7 +485,7 @@
         "Image": "gates.external.high.stone.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -495,7 +495,7 @@
         "Image": "gates.external.high.wood.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -505,7 +505,7 @@
         "Image": "ladder.wooden.wall.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -515,7 +515,7 @@
         "Image": "wall.external.high.stone.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -525,7 +525,7 @@
         "Image": "wall.external.high.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -535,7 +535,7 @@
         "Image": "wall.frame.cell.gate.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -545,7 +545,7 @@
         "Image": "wall.frame.cell.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -555,7 +555,7 @@
         "Image": "wall.frame.fence.gate.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -565,7 +565,7 @@
         "Image": "wall.frame.fence.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -575,7 +575,7 @@
         "Image": "wall.frame.garagedoor.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -585,7 +585,7 @@
         "Image": "wall.frame.netting.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -595,7 +595,7 @@
         "Image": "wall.frame.shopfront.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -605,7 +605,7 @@
         "Image": "wall.frame.shopfront.metal.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -615,7 +615,7 @@
         "Image": "wall.window.bars.metal.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -625,7 +625,7 @@
         "Image": "wall.window.bars.toptier.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 7000,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -645,7 +645,7 @@
         "Image": "shutter.metal.embrasure.a.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -655,7 +655,7 @@
         "Image": "shutter.metal.embrasure.b.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -665,7 +665,7 @@
         "Image": "wall.window.glass.reinforced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -675,7 +675,7 @@
         "Image": "shutter.wood.a.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -685,7 +685,7 @@
         "Image": "watchtower.wood.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -695,7 +695,7 @@
         "Image": "diving.fins.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -705,7 +705,7 @@
         "Image": "diving.mask.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -715,7 +715,7 @@
         "Image": "diving.tank.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -725,7 +725,7 @@
         "Image": "diving.wetsuit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -735,7 +735,7 @@
         "Image": "boots.frog.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -745,7 +745,7 @@
         "Image": "barrelcostume.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 530,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -755,7 +755,7 @@
         "Image": "cratrpstume.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 530,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -765,7 +765,7 @@
         "Image": "hat.gas.mask.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 530,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -815,7 +815,7 @@
         "Image": "ghostsheet.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -825,7 +825,7 @@
         "Image": "halloween.mummysuit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -835,7 +835,7 @@
         "Image": "scarecrow.suit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -845,7 +845,7 @@
         "Image": "scarecrowhead.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -855,7 +855,7 @@
         "Image": "attire.hide.helterneck.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -865,7 +865,7 @@
         "Image": "hat.beenie.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -875,7 +875,7 @@
         "Image": "hat.boonie.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -915,7 +915,7 @@
         "Image": "hat.cap.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -955,7 +955,7 @@
         "Image": "heavy.plate.helmet.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -965,7 +965,7 @@
         "Image": "hat.miner.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -985,7 +985,7 @@
         "Image": "riot.helmet.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -995,7 +995,7 @@
         "Image": "wood.armor.helmet.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1005,7 +1005,7 @@
         "Image": "hoodie.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1015,7 +1015,7 @@
         "Image": "bone.armor.suit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1025,7 +1025,7 @@
         "Image": "heavy.plate.jacket.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1035,7 +1035,7 @@
         "Image": "jacket.snow.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1045,7 +1045,7 @@
         "Image": "jacket.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1055,7 +1055,7 @@
         "Image": "wood.armor.jacket.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1065,7 +1065,7 @@
         "Image": "lumberjack hoodie.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1075,7 +1075,7 @@
         "Image": "mask.balaclava.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1085,7 +1085,7 @@
         "Image": "mask.bandana.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1095,7 +1095,7 @@
         "Image": "metal.facemask.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1105,7 +1105,7 @@
         "Image": "nightvisiongoggles.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1115,7 +1115,7 @@
         "Image": "attire.ninja.suit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1135,7 +1135,7 @@
         "Image": "heavy.plate.pants.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 7500,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1145,7 +1145,7 @@
         "Image": "attire.hide.pants.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 555,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1165,7 +1165,7 @@
         "Image": "pants.shorts.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1175,7 +1175,7 @@
         "Image": "wood.armor.pants.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1195,7 +1195,7 @@
         "Image": "attire.hide.poncho.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1205,7 +1205,7 @@
         "Image": "burlap.shirt.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1215,7 +1215,7 @@
         "Image": "shirt.collared.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1225,7 +1225,7 @@
         "Image": "attire.hide.vest.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1550,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1255,7 +1255,7 @@
         "Image": "burlap.shoes.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1265,7 +1265,7 @@
         "Image": "attire.hide.boots.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1275,7 +1275,7 @@
         "Image": "attire.hide.skirt.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1295,7 +1295,7 @@
         "Image": "hazmatsuit.arcticsuit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 10000,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1305,7 +1305,7 @@
         "Image": "hazmatsuit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1315,7 +1315,7 @@
         "Image": "hazmatsuit.nomadsuit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 10000,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1325,7 +1325,7 @@
         "Image": "hazmatsuit_scientist.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1335,7 +1335,7 @@
         "Image": "hazmatsuit_scientist_arctic.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1345,7 +1345,7 @@
         "Image": "hazmatsuit_scientist_peacekeeper.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1355,7 +1355,7 @@
         "Image": "scientistsuit_heavy.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 18000,
+        "BuyPrice": 1800,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1445,7 +1445,7 @@
         "Image": "carburetor1.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1455,7 +1455,7 @@
         "Image": "carburetor2.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1475,7 +1475,7 @@
         "Image": "crankshaft1.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1485,7 +1485,7 @@
         "Image": "crankshaft2.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1505,7 +1505,7 @@
         "Image": "piston1.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1515,7 +1515,7 @@
         "Image": "piston2.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1535,7 +1535,7 @@
         "Image": "sparkplug1.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1565,7 +1565,7 @@
         "Image": "valve1.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1575,7 +1575,7 @@
         "Image": "valve2.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1595,7 +1595,7 @@
         "Image": "fuse.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 200,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1665,7 +1665,7 @@
         "Image": "rope.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1675,7 +1675,7 @@
         "Image": "sewingkit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 200,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1685,7 +1685,7 @@
         "Image": "sheetmetal.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1725,7 +1725,7 @@
         "Image": "techparts.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 4000,
+        "BuyPrice": 400,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1735,7 +1735,7 @@
         "Image": "riflebody.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 800,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1745,7 +1745,7 @@
         "Image": "semibody.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1795,7 +1795,7 @@
         "Image": "barricade.sandbags.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 850,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1805,7 +1805,7 @@
         "Image": "barricade.stone.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 850,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1815,7 +1815,7 @@
         "Image": "barricade.wood.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1835,7 +1835,7 @@
         "Image": "bbq.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 850,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1845,7 +1845,7 @@
         "Image": "trap.bear.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 850,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1855,7 +1855,7 @@
         "Image": "bed.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1050,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1865,7 +1865,7 @@
         "Image": "campfire.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 90,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1885,7 +1885,7 @@
         "Image": "ceilinglight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 875,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1905,7 +1905,7 @@
         "Image": "composter.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1915,7 +1915,7 @@
         "Image": "computerstation.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 7500,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1925,7 +1925,7 @@
         "Image": "drone.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 11000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1935,7 +1935,7 @@
         "Image": "dropbox.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 8000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1945,7 +1945,7 @@
         "Image": "elevator.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 8000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -1955,7 +1955,7 @@
         "Image": "fireplace.stone.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 800,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2105,7 +2105,7 @@
         "Image": "spikes.floor.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1050,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2115,7 +2115,7 @@
         "Image": "frankensteintable.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1050,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2125,7 +2125,7 @@
         "Image": "fridge.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5050,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2135,7 +2135,7 @@
         "Image": "furnace.large.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 14050,
+        "BuyPrice": 1250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2175,7 +2175,7 @@
         "Image": "jackolantern.angry.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 7,
+        "BuyPrice": 75,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2195,7 +2195,7 @@
         "Image": "trap.landmine.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 3000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2205,7 +2205,7 @@
         "Image": "lantern.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2215,7 +2215,7 @@
         "Image": "box.wooden.large.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 350,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2225,7 +2225,7 @@
         "Image": "water.barrel.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 350,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2235,7 +2235,7 @@
         "Image": "locker.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 8050,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2245,7 +2245,7 @@
         "Image": "mailbox.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2255,7 +2255,7 @@
         "Image": "mixingtable.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2050,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2265,7 +2265,7 @@
         "Image": "modularcarlift.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2050,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2275,7 +2275,7 @@
         "Image": "mining.pumpjack.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15050,
+        "BuyPrice": 2500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2285,7 +2285,7 @@
         "Image": "small.oil.refinery.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15000,
+        "BuyPrice": 2500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2295,7 +2295,7 @@
         "Image": "planter.large.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2000,
+        "BuyPrice": 200,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2305,7 +2305,7 @@
         "Image": "planter.small.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1000,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2315,7 +2315,7 @@
         "Image": "electric.audioalarm.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1050,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2325,7 +2325,7 @@
         "Image": "smart.alarm.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 3050,
+        "BuyPrice": 300,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2335,7 +2335,7 @@
         "Image": "smart.switch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2050,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2345,7 +2345,7 @@
         "Image": "storage.monitor.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5050,
+        "BuyPrice": 550,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2355,7 +2355,7 @@
         "Image": "electric.battery.rechargable.large.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 3500,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2365,7 +2365,7 @@
         "Image": "electric.battery.rechargable.medium.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2350,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2375,7 +2375,7 @@
         "Image": "electric.battery.rechargable.small.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2050,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2385,7 +2385,7 @@
         "Image": "electric.button.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2395,7 +2395,7 @@
         "Image": "electric.counter.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2405,7 +2405,7 @@
         "Image": "electric.hbhfsensor.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2415,7 +2415,7 @@
         "Image": "electric.laserdetector.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2425,7 +2425,7 @@
         "Image": "electric.pressurepad.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1000,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2435,7 +2435,7 @@
         "Image": "electric.doorcontroller.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1000,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2445,7 +2445,7 @@
         "Image": "electric.heater.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2455,7 +2455,7 @@
         "Image": "fluid.combiner.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2000,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2465,7 +2465,7 @@
         "Image": "fluid.splitter.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1000,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2475,7 +2475,7 @@
         "Image": "fluid.switch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2485,7 +2485,7 @@
         "Image": "electric.andswitch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 520,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2495,7 +2495,7 @@
         "Image": "electric.blocker.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2505,7 +2505,7 @@
         "Image": "electrical.branch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2515,7 +2515,7 @@
         "Image": "electrical.combiner.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2525,7 +2525,7 @@
         "Image": "electrical.memorycell.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2050,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2535,7 +2535,7 @@
         "Image": "electric.orswitch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2545,7 +2545,7 @@
         "Image": "electric.random.switch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2575,7 +2575,7 @@
         "Image": "electric.xorswitch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2585,7 +2585,7 @@
         "Image": "electric.fuelgenerator.small.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1200,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2595,7 +2595,7 @@
         "Image": "electric.generator.small.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1250,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2605,7 +2605,7 @@
         "Image": "electric.solarpanel.large.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 8000,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2615,7 +2615,7 @@
         "Image": "electric.igniter.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 200,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2625,7 +2625,7 @@
         "Image": "electric.flasherlight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2635,7 +2635,7 @@
         "Image": "electric.simplelight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2645,7 +2645,7 @@
         "Image": "electric.sirenlight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2655,7 +2655,7 @@
         "Image": "powered.water.purifier.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2665,7 +2665,7 @@
         "Image": "electric.switch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2675,7 +2675,7 @@
         "Image": "electric.splitter.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2685,7 +2685,7 @@
         "Image": "electric.sprinkler.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2695,7 +2695,7 @@
         "Image": "electric.teslacoil.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 2500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2705,7 +2705,7 @@
         "Image": "electric.timer.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2715,7 +2715,7 @@
         "Image": "electric.cabletunnel.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2725,7 +2725,7 @@
         "Image": "waterpump.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2000,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2735,7 +2735,7 @@
         "Image": "mining.quarry.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25050,
+        "BuyPrice": 2500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2745,7 +2745,7 @@
         "Image": "target.reactive.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2815,7 +2815,7 @@
         "Image": "shelves.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1050,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2825,7 +2825,7 @@
         "Image": "sign.hanging.banner.large.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1050,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2835,7 +2835,7 @@
         "Image": "sign.hanging.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 350,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2845,7 +2845,7 @@
         "Image": "sign.hanging.ornate.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2975,7 +2975,7 @@
         "Image": "sign.wooden.medium.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 25,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2985,7 +2985,7 @@
         "Image": "sign.wooden.small.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 10,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -2995,7 +2995,7 @@
         "Image": "guntrap.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1550,
+        "BuyPrice": 550,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3015,7 +3015,7 @@
         "Image": "stash.small.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 25,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3025,7 +3025,7 @@
         "Image": "sofa.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3085,7 +3085,7 @@
         "Image": "workbench2.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3095,7 +3095,7 @@
         "Image": "workbench3.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2550,
+        "BuyPrice": 3000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3105,7 +3105,7 @@
         "Image": "cupboard.tool.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3135,7 +3135,7 @@
         "Image": "water.catcher.large.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3145,7 +3145,7 @@
         "Image": "water.catcher.small.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3165,7 +3165,7 @@
         "Image": "generator.wind.scrap.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5000,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3175,7 +3175,7 @@
         "Image": "box.wooden.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3265,7 +3265,7 @@
         "Image": "can.beans.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 10,
+        "BuyPrice": 25,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3295,7 +3295,7 @@
         "Image": "fish.anchovy.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3305,7 +3305,7 @@
         "Image": "fish.catfish.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3325,7 +3325,7 @@
         "Image": "fish.raw.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3335,7 +3335,7 @@
         "Image": "fish.herring.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3345,7 +3345,7 @@
         "Image": "fish.minnows.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3355,7 +3355,7 @@
         "Image": "fish.orangeroughy.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3365,7 +3365,7 @@
         "Image": "fish.salmon.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3375,7 +3375,7 @@
         "Image": "fish.sardine.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3385,7 +3385,7 @@
         "Image": "fish.smallshark.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3395,7 +3395,7 @@
         "Image": "fish.troutsmall.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3405,7 +3405,7 @@
         "Image": "fish.yellowperch.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3695,7 +3695,7 @@
         "Image": "waterjug.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 10,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -3995,7 +3995,7 @@
         "Image": "door.closer.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -4555,7 +4555,7 @@
         "Image": "industrial.wall.light.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 350,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -4565,7 +4565,7 @@
         "Image": "industrial.wall.light.red.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 350,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -4945,7 +4945,7 @@
         "Image": "wall.external.high.ice.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5025,7 +5025,7 @@
         "Image": "xmas.lightstring.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5365,7 +5365,7 @@
         "Image": "flameturret.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2500,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5395,7 +5395,7 @@
         "Image": "samsite.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 12000,
+        "BuyPrice": 5000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5734,7 +5734,7 @@
         "Image": "cctv.camera.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 400,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5742,8 +5742,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "charcoal.png",
-        "DefaultAmount": 250,
-        "BuyPrice": 27,
+        "DefaultAmount": 1,
+        "BuyPrice": 2,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5751,8 +5751,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "cloth.png",
-        "DefaultAmount": 250,
-        "BuyPrice": 15,
+        "DefaultAmount": 1,
+        "BuyPrice": 2,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5760,8 +5760,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "crude.oil.png",
-        "DefaultAmount": 50,
-        "BuyPrice": 100,
+        "DefaultAmount": 1,
+        "BuyPrice": 4,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5781,7 +5781,7 @@
         "Image": "can.beans.empty.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 20,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5791,7 +5791,7 @@
         "Image": "can.tuna.empty.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 20,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5811,7 +5811,7 @@
         "Image": "fertilizer.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 2,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5819,8 +5819,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "gunpowder.png",
-        "DefaultAmount": 50,
-        "BuyPrice": 150,
+        "DefaultAmount": 1,
+        "BuyPrice": 8,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5830,7 +5830,7 @@
         "Image": "horsedung.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2,
+        "BuyPrice": 20,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5838,8 +5838,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "hq.metal.ore.png",
-        "DefaultAmount": 25,
-        "BuyPrice": 45,
+        "DefaultAmount": 1,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5847,7 +5847,7 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "metal.refined.png",
-        "DefaultAmount": 100,
+        "DefaultAmount": 1,
         "BuyPrice": 75,
         "SellPrice": 0,
         "Currency": "rp"
@@ -5856,8 +5856,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "leather.png",
-        "DefaultAmount": 65,
-        "BuyPrice": 75,
+        "DefaultAmount": 1,
+        "BuyPrice": 4,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5865,8 +5865,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "lowgradefuel.png",
-        "DefaultAmount": 100,
-        "BuyPrice": 50,
+        "DefaultAmount": 1,
+        "BuyPrice": 10,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5874,8 +5874,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "metal.fragments.png",
-        "DefaultAmount": 100,
-        "BuyPrice": 55,
+        "DefaultAmount": 1,
+        "BuyPrice": 6,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5883,8 +5883,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "metal.ore.png",
-        "DefaultAmount": 75,
-        "BuyPrice": 45,
+        "DefaultAmount": 1,
+        "BuyPrice": 4,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5894,7 +5894,7 @@
         "Image": "paper.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 8,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5934,7 +5934,7 @@
         "Image": "scrap.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 40,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5942,8 +5942,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "stones.png",
-        "DefaultAmount": 500,
-        "BuyPrice": 25,
+        "DefaultAmount": 1,
+        "BuyPrice": 3,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5951,8 +5951,8 @@
         "DisplayName": "default",
         "Skin": 0,
         "Image": "sulfur.ore.png",
-        "DefaultAmount": 250,
-        "BuyPrice": 60,
+        "DefaultAmount": 1,
+        "BuyPrice": 3,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5962,7 +5962,7 @@
         "Image": "sulfur.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 5,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5972,7 +5972,7 @@
         "Image": "targeting.computer.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 120,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -5992,7 +5992,7 @@
         "Image": "skull.wolf.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 10,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6002,7 +6002,7 @@
         "Image": "wood.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 20,
+        "BuyPrice": 2,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6012,7 +6012,7 @@
         "Image": "healingtea.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6022,7 +6022,7 @@
         "Image": "healingtea.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6032,7 +6032,7 @@
         "Image": "healingtea.pure.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6042,7 +6042,7 @@
         "Image": "maxhealthtea.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6052,7 +6052,7 @@
         "Image": "maxhealthtea.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6062,7 +6062,7 @@
         "Image": "maxhealthtea.pure.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6072,7 +6072,7 @@
         "Image": "oretea.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6082,7 +6082,7 @@
         "Image": "oretea.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6092,7 +6092,7 @@
         "Image": "oretea.pure.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6102,7 +6102,7 @@
         "Image": "radiationremovetea.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6112,7 +6112,7 @@
         "Image": "radiationremovetea.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6122,7 +6122,7 @@
         "Image": "radiationremovetea.pure.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6132,7 +6132,7 @@
         "Image": "radiationresisttea.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6142,7 +6142,7 @@
         "Image": "radiationresisttea.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6152,7 +6152,7 @@
         "Image": "radiationresisttea.pure.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6162,7 +6162,7 @@
         "Image": "scraptea.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6172,7 +6172,7 @@
         "Image": "scraptea.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6182,7 +6182,7 @@
         "Image": "scraptea.pure.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6192,7 +6192,7 @@
         "Image": "woodtea.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 75,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6202,7 +6202,7 @@
         "Image": "woodtea.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6212,7 +6212,7 @@
         "Image": "woodtea.pure.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6222,7 +6222,7 @@
         "Image": "antiradpills.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 25,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6232,7 +6232,7 @@
         "Image": "tool.binoculars.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 35,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6262,7 +6262,7 @@
         "Image": "rf.detonator.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6282,7 +6282,7 @@
         "Image": "flare.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6332,7 +6332,7 @@
         "Image": "keycard_blue.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6352,7 +6352,7 @@
         "Image": "keycard_red.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6362,7 +6362,7 @@
         "Image": "largemedkit.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6392,7 +6392,7 @@
         "Image": "rf_pager.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 15,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6412,7 +6412,7 @@
         "Image": "grenade.smoke.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6422,7 +6422,7 @@
         "Image": "spraycan.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6442,7 +6442,7 @@
         "Image": "surveycharge.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 10,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6452,7 +6452,7 @@
         "Image": "wiretool.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 82,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6602,7 +6602,7 @@
         "Image": "vehicle.2mod.fuel.tank.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 254,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6612,7 +6612,7 @@
         "Image": "vehicle.2mod.passengers.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6782,7 +6782,7 @@
         "Image": "weapon.mod.8x.scope.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 195,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6792,7 +6792,7 @@
         "Image": "weapon.mod.flashlight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 395,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6802,7 +6802,7 @@
         "Image": "weapon.mod.holosight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 350,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6812,7 +6812,7 @@
         "Image": "weapon.mod.lasersight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 375,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6822,7 +6822,7 @@
         "Image": "weapon.mod.muzzleboost.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 335,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6832,7 +6832,7 @@
         "Image": "weapon.mod.muzzlebrake.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 445,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6842,7 +6842,7 @@
         "Image": "weapon.mod.simplesight.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 115,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6852,7 +6852,7 @@
         "Image": "weapon.mod.silencer.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 930,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6862,7 +6862,7 @@
         "Image": "weapon.mod.small.scope.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 265,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6872,7 +6872,7 @@
         "Image": "rifle.ak.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1530,
+        "BuyPrice": 1750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6882,7 +6882,7 @@
         "Image": "rifle.ak.ice.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1350,
+        "BuyPrice": 1750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6912,7 +6912,7 @@
         "Image": "rifle.bolt.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1450,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6922,7 +6922,7 @@
         "Image": "bone.club.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 50,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6942,7 +6942,7 @@
         "Image": "bow.hunting.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 7000,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6962,7 +6962,7 @@
         "Image": "chainsaw.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6972,7 +6972,7 @@
         "Image": "salvaged.cleaver.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 450,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6982,7 +6982,7 @@
         "Image": "bow.compound.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -6992,7 +6992,7 @@
         "Image": "crossbow.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 450,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7002,7 +7002,7 @@
         "Image": "shotgun.double.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7012,7 +7012,7 @@
         "Image": "pistol.eoka.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7022,7 +7022,7 @@
         "Image": "grenade.f1.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 152,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7032,7 +7032,7 @@
         "Image": "flamethrower.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7042,7 +7042,7 @@
         "Image": "multiplegrenadelauncher.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2490,
+        "BuyPrice": 3000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7102,7 +7102,7 @@
         "Image": "hatchet.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 550,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7132,7 +7132,7 @@
         "Image": "rifle.lr300.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 2450,
+        "BuyPrice": 5000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7142,7 +7142,7 @@
         "Image": "lmg.m249.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 4750,
+        "BuyPrice": 5000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7152,7 +7152,7 @@
         "Image": "rifle.m39.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1600,
+        "BuyPrice": 2500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7162,7 +7162,7 @@
         "Image": "pistol.m92.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 820,
+        "BuyPrice": 1000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7192,7 +7192,7 @@
         "Image": "smg.mp5.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1300,
+        "BuyPrice": 1500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7222,7 +7222,7 @@
         "Image": "pickaxe.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7232,7 +7232,7 @@
         "Image": "shotgun.waterpipe.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 150,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7242,7 +7242,7 @@
         "Image": "pistol.python.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 1250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7252,7 +7252,7 @@
         "Image": "pistol.revolver.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 1250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7272,7 +7272,7 @@
         "Image": "rocket.launcher.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 5400,
+        "BuyPrice": 5500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7282,7 +7282,7 @@
         "Image": "axe.salvaged.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 400,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7292,7 +7292,7 @@
         "Image": "hammer.salvaged.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 450,
+        "BuyPrice": 400,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7302,7 +7302,7 @@
         "Image": "icepick.salvaged.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 850,
+        "BuyPrice": 400,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7312,7 +7312,7 @@
         "Image": "explosive.satchel.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 1500,
+        "BuyPrice": 2000,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7322,7 +7322,7 @@
         "Image": "shotgun.pump.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 450,
+        "BuyPrice": 1450,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7332,7 +7332,7 @@
         "Image": "pistol.semiauto.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 100,
+        "BuyPrice": 500,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7342,7 +7342,7 @@
         "Image": "rifle.semiauto.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 500,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7352,7 +7352,7 @@
         "Image": "smg.2.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 250,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7412,7 +7412,7 @@
         "Image": "longsword.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7422,7 +7422,7 @@
         "Image": "salvaged.sword.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 50,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7432,7 +7432,7 @@
         "Image": "smg.thompson.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 750,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7522,7 +7522,7 @@
         "Image": "horse.shoes.advanced.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 250,
         "SellPrice": 0,
         "Currency": "rp"
     },
@@ -7532,7 +7532,7 @@
         "Image": "horse.shoes.basic.png",
         "DefaultAmount": 1,
         "BlockAmountChange": false,
-        "BuyPrice": 150,
+        "BuyPrice": 100,
         "SellPrice": 0,
         "Currency": "rp"
     }
